@@ -1,1 +1,4 @@
 Code changes for merging file
+hi
+New to Git
+learning git
